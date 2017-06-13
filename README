@@ -1,0 +1,8 @@
+# exlink - extract real url from shortened urls
+exlink should work with bit.ly, goo.gl, t.co, ow.ly, tinyurl.com and probably
+more services
+
+## usage:
+
+exlink -t [URL]
+
